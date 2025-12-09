@@ -51,9 +51,10 @@ Iâ€™m a **Professional Android Developer** , **Professional UI/UX Designer**  ðŸ
 <div align="center">
 <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ar-sarkar-77&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   
-![Anondo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ar-sarkar-77&show_icons=true&theme=react)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ar-sarkar-77&show_icons=true&theme=react)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-sarkar-77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ar-sarkar-77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph" />
+
 </div>
 
 
