@@ -49,8 +49,10 @@ I’m a **Professional Android Developer** , **Professional UI/UX Designer**  �
 ### 📊 GitHub Stats:
 
 <div align="center">
+
 <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ar-sarkar-77&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  
+
+<!--<img src="https://github-readme-stats.vercel.app/api?username=ar-sarkar-77&show_icons=true&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="44%" height="100%" alt="Github STat"/> -->
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ar-sarkar-77&show_icons=true&theme=react)
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ar-sarkar-77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph" />
